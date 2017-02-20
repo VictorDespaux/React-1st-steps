@@ -1,0 +1,61 @@
+body{
+  padding:0px;
+  margin:0px;
+}
+h1{
+  text-align: center;
+}
+#big-container{
+  text-align: center;
+}
+
+.day{
+  padding: 5px;
+  float: left;
+  width: 165px;
+  text-align: center;
+}
+#first-div{
+  padding-left: 5px;
+  padding-right: 5px;
+  border-right: solid grey 2px;
+  border-left:solid grey 2px;
+  border-bottom: solid grey 2px;
+}
+#lundi{
+  border-left: none;
+}
+#dimanche{
+  border-right: none;
+}
+#list-container{
+
+}
+p{
+  padding-bottom: 35px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-bottom: dashed grey 2px;
+  border-right: dashed grey 2px;
+  border-left:dashed grey 2px;
+}
+
+p span{
+  float:left;
+}
+p i{
+  float:right;
+}
+form{
+  padding-bottom: 35px;
+}
+form input{
+  float: left;
+}
+form button{
+  padding: 0;
+  padding-top:1px;
+  border: none;
+  background: none;
+  float: right;
+}
